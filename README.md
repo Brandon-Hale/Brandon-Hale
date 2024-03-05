@@ -1,30 +1,53 @@
-<h1 align="center">Brandon Hale</h1>
-<p align="center">
-  Software Engineer | IT Undergraduate | ComSSA Committee Member
+<h1 align="center">Hi 👋, I'm Lauro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+
+- 🔭 I’m currently working on my **Python Course**
+
+- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+
+- 👯 I’m looking to collaborate on **front-end and back-end projects**
+
+- 📫 How to reach me: **brantlauro@gmail.com**
+
+- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-hale-/)
+  
+</div>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/brandon-hale-/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=wordpress&logoColor=white" alt="Website"></a>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>
-🚀 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/-Flask-lightgrey?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</p>
-🌟 Featured Projects
-Project Name 1: Brief description of the project.
-Project Name 2: Brief description of the project.
-Project Name 3: Brief description of the project.
-📬 Contact Me
-LinkedIn: Your LinkedIn Profile
-Email: youremail@example.com
-Website: Your Website
+
+------
+
+[BrantLauro](https://github.com/BrantLauro)
+
+Last Edited on: 05/08/2021
