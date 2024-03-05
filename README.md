@@ -2,45 +2,33 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
+# Welcome to [Your Name]'s GitHub Profile! 👋
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Brandon Hale</h1></summary>
-  </ul>
-</div>
+## About Me
+I'm a passionate [Your Profession/Field] with a keen interest in [Specific Areas of Expertise]. I enjoy tackling complex problems and collaborating with others to develop innovative solutions. Continuous learning and staying updated with the latest technologies are integral parts of my journey.
 
+## Tech Stack
+Here are some of the technologies I frequently work with:
 
-<!--About Me-->
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## Projects
+- [Project Name](Link to Project Repository or Demo)
+- [Project Name](Link to Project Repository or Demo)
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+## Get in Touch
+- LinkedIn: [Your LinkedIn Profile URL](Your LinkedIn Profile URL)
+- Email: [Your Email Address](mailto:your@email.com)
+- Website/Blog: [Your Website/Blog URL](Your Website/Blog URL)
 
-- :school: I am a `Final Year Student` at [Curtin University]([https://www.curtin.edu.au/]) in Software Engineering
-- 💻 **Currently working on** `Software Development` **&** `Agile Methodologies`
-- :boom: You can visit [MY WEBSITE](https://bhale.net) to view my portfolio & resume
-- :email: Feel free to **reach me out** `brandon_hale@ozemail.com.au`
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything further!
 
-<br>
-
-Skill Set 💪
-These are some of the major technologies that I use or have worked on in the past:
-
-Programming Languages
-
-Python	JS	Typescript	Go	C
-Libraries and Frameworks
-
-TensorFlow	Keras	Scikit Learn	OpenCV	Docker
-Flask	Django	jQuery	GraphQL	Selenium
-Infrastructure
-
-AWS	Kubernetes	Heroku
-Databases
-
-SQL	MongoDB	ElasticSearch
-Tools
-
-Ubuntu	ZSH	VS Code	git	Jupyter
 
