@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/yourusername.png" alt="Your Name" width="200" height="200">
+  <img src="https://github.com/yourusername.png" alt="Brandon Hale" width="200" height="200">
 </p>
-<h1 align="center">Your Name</h1>
+<h1 align="center">Brandon Hale</h1>
 <p align="center">
-  Passionate Software Engineer | Tech Enthusiast | Open Source Contributor
+  Software Engineer | IT Undergraduate | ComSSA Committee Member
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/brandon-hale-/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=wordpress&logoColor=white" alt="Website"></a>
 </p>
