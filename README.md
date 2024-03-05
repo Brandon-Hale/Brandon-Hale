@@ -2,10 +2,10 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to Brandon Hale's GitHub Profile! 👋
 
 ## About Me
-I'm a passionate [Your Profession/Field] with a keen interest in [Specific Areas of Expertise]. I enjoy tackling complex problems and collaborating with others to develop innovative solutions. Continuous learning and staying updated with the latest technologies are integral parts of my journey.
+Final year Software Engineering student at Curtin University with a strong foundation in Java, C#, Microsoft ASP.NET, and SQL databases. I thrive on solving complex problems with a process-driven mindset and am eager to apply my skills in computing and cybersecurity to real-world challenges. My quick learning ability and collaborative nature make me a valuable team player, always striving for personal and professional development.
 
 ## Tech Stack
 Here are some of the technologies I frequently work with:
