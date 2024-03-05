@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/yourusername.png" alt="Brandon Hale" width="200" height="200">
-</p>
 <h1 align="center">Brandon Hale</h1>
 <p align="center">
   Software Engineer | IT Undergraduate | ComSSA Committee Member
