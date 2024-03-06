@@ -45,7 +45,7 @@
 
 </p>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Tools and Platforms</h3>
 
 <p align="center"> 
   <a href="https://www.linux.org/" target="_blank"> 
