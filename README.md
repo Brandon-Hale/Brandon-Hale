@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 <h3 align="center">Software Engineer Student at Curtin University || IT Undergraduate at Intellect Systems || ComSSA Committee Memeber</h3>
 
-- 🔭 I’m currently working on my ****
-
 - 🌱 I’m currently learning **Ruby, C and Python**
 
 - 👯 I’m looking to collaborate on **Software Development Project's**
