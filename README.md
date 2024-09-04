@@ -5,7 +5,7 @@
 
 <!-- Introduction Section -->
 <h1 align="center">Hi, I'm Brandon Hale 👋</h1>
-<h3 align="center">Software Engineering Student | IT Intern at Intellect Systems | ComSSA Committee Member</h3>
+<h3 align="center">.NET Developer at Australian Institute of Management WA | Software Engineering Student at Curtin University</h3>
 
 <!-- Tech Stack Icons -->
 <h3 align="center">Languages</h3>
